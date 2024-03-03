@@ -1,0 +1,6 @@
+[submodule "room-finder-api"]
+	path = room-finder-api
+	url = https://github.com/trungluongwww/room-finder-api
+[submodule "room-finder"]
+	path = room-finder
+	url = https://github.com/trungluongwww/room-finder
