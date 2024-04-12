@@ -1,4 +1,4 @@
-# Room Finder Mobile App
+# Room Finder Mobile App (Nodejs, Expressjs, Postgresql, Flutter)
 
 This is a mobile application project designed to help users find apartments, rooms, and other accommodations easily. The app offers various features to facilitate the search process and enhance user experience.
 
